@@ -4,8 +4,8 @@ import { ErrorView } from '../../components/Shared'
 export default () => {
   return (
     <ErrorView
-      title='Glif is currently down'
-      description="We're aware of the outage and will be back up shortly."
+      title='Glif Wallet has run into an error'
+      description="We're aware of the issue and will resolve it shortly."
       linkDisplay='Follow @glifwallet for updates.'
       linkhref='https://twitter.com/'
     />
